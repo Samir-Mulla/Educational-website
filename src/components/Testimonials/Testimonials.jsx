@@ -5,24 +5,21 @@ import back_icon from "/back-icon.png";
 import TestimonialsData from "../../data/TestimonialsData";
 
 function Testimonials() {
-
   const slider = useRef();
   let transX = 0;
 
-   const slideForward = ()=>{
-    if(transX > -50){
-      transX -=25;
+  const slideForward = () => {
+    if (transX > -50) {
+      transX -= 25;
     }
     slider.current.style.transform = `translateX(${transX}%)`;
-    
-   }
-   const slideBackward = ()=>{
-      if(transX < 0)
-        {
-          transX += 25;
-        }
-        slider.current.style.transform = `translateX(${transX}%)`
-   }
+  };
+  const slideBackward = () => {
+    if (transX < 0) {
+      transX += 25;
+    }
+    slider.current.style.transform = `translateX(${transX}%)`;
+  };
 
   return (
     <>
