@@ -1,9 +1,9 @@
 const testimonialsData = [
   {
     id: 1,
-    imageUrl: "/user-1.png",
-    name: "Julia Kennedy",
-    location: "New York, USA",
+    imageUrl: "/user-1.avif",
+    name: "Fiza bagwan",
+    location: "Jeddah, Saudi Arabia",
     testimonial:
       "Choosing to pursue my degree at Ilm was one of the best decisions I've ever made. The supportive community, state-of-the-art-facilities, and commitment to academic excellence have truly exceeded my expectations.",
   },
@@ -17,9 +17,9 @@ const testimonialsData = [
   },
   {
     id: 3,
-    imageUrl: "/user-3.png",
-    name: "Ava Scott",
-    location: "New York, USA",
+    imageUrl: "/user-3.jpg",
+    name: "Ayesha Khan",
+    location: "Bukhara, Uzbekistan",
     testimonial:
       "Choosing to pursue my degree at Ilm was one of the best decisions I've ever made. The supportive community, state-of-the-art-facilities, and commitment to academic excellence have truly exceeded my expectations.",
   },
