@@ -47,7 +47,7 @@ function Contact() {
           <ul>
             <li>
               <img src={mailIcon} alt="mail icon" />
-              contact@rizwan@gmail.com
+              rizwanshaikh@gmail.com
             </li>
             <li>
               <img src={phoneIcon} alt="phone icon" />
