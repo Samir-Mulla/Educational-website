@@ -93,5 +93,3 @@ On tablets, the website adjusts to fit the screen size, maintaining readability 
 
 The mobile view optimizes the website for smaller screens, focusing on essential navigation and content. This ensures that users on smartphones can still enjoy a seamless browsing experience, accessing key sections with ease and convenience.
 
-These screenshots illustrate the adaptive nature of our website's design, ensuring a consistent and high-quality user experience across all devices.
-For a detailed view of specific sections, please refer to the individual screenshots below:
