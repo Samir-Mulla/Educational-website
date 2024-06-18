@@ -15,6 +15,10 @@ Welcome to the documentation for our educational website project. This site is d
   - [Usage](#usage)
   - [Contributing](#contributing)
   - [Contact](#contact)
+  - [User Interface Design Across Different Devices](#user-interface-design-across-different-devices)
+    - [Desktop View](#desktop-view)
+    - [Tablet View](#tablet-view)
+    - [Mobile View](#mobile-view)
 
 ## Setup
 
@@ -67,6 +71,27 @@ We welcome contributions from the community Your input helps improve the project
 
 For any questions or feedback regarding the project, please reach out to the project maintainers via email or through the issue tracker on GitHub.
 
----
+## User Interface Design Across Different Devices
 
-This documentation provides a foundational understanding of the project, guiding users through the setup process, usage instructions, and contribution guidelines. Feel free to update and expand upon this template based on the project's evolving needs.
+Our educational website is meticulously designed to offer a seamless user experience across various devices. Below, we present screenshots illustrating how the website's interface adapts to different screen sizes: desktop, tablet, and mobile.
+
+### Desktop View
+
+![Desktop View Screenshot](public/desktop-view.avif)
+
+In the desktop view, the website presents a comprehensive layout with all sections clearly visible. This view is ideal for users accessing the site from a computer or a large monitor, providing a detailed exploration of the educational offerings.
+
+### Tablet View
+
+![Tablet View Screenshot](public/tablet-view.avif)
+
+On tablets, the website adjusts to fit the screen size, maintaining readability and usability. Key elements remain accessible, making it easy for users to navigate and find the information they need, even on smaller screens.
+
+### Mobile View
+
+![Mobile View Screenshot](public/mobile-view.avif)
+
+The mobile view optimizes the website for smaller screens, focusing on essential navigation and content. This ensures that users on smartphones can still enjoy a seamless browsing experience, accessing key sections with ease and convenience.
+
+These screenshots illustrate the adaptive nature of our website's design, ensuring a consistent and high-quality user experience across all devices.
+For a detailed view of specific sections, please refer to the individual screenshots below:
